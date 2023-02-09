@@ -8,3 +8,4 @@ path = Console.ReadLine();
 var writer = new StreamWriter(path!);
 writer.Write(new string(text.Select(e => (char)(e ^ key)).ToArray()));
 writer.Flush();
+writer.Dispose();
