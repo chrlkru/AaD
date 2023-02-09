@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\filim\\OneDrive\\Рабочий стол\\Доки\\3 семестр\\Анализ и дизайн\\Git\\AaD\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "E:\\ёба\\ООАиД\\ЛР1\\Задание 3\\AaD\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\filim\\OneDrive\\Рабочий стол\\Доки\\3 семестр\\Анализ и дизайн\\Git\\AaD\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "E:\\ёба\\ООАиД\\ЛР1\\Задание 3\\AaD\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\filim\\OneDrive\\Рабочий стол\\Доки\\3 семестр\\Анализ и дизайн\\Git\\AaD\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "E:\\ёба\\ООАиД\\ЛР1\\Задание 3\\AaD\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\filim\\OneDrive\\Рабочий стол\\Доки\\3 семестр\\Анализ и дизайн\\Git\\AaD\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\filim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\filim\\OneDrive\\Рабочий стол\\Доки\\3 семестр\\Анализ и дизайн\\Git\\AaD\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "projectPath": "E:\\ёба\\ООАиД\\ЛР1\\Задание 3\\AaD\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\danii\\.nuget\\packages\\",
+        "outputPath": "E:\\ёба\\ООАиД\\ЛР1\\Задание 3\\AaD\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\filim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\danii\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
