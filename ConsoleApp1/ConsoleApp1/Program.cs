@@ -5,3 +5,4 @@ Console.Write("Укажите ключ: ");
 var key = int.Parse(Console.ReadLine()!);
 Console.Write("Укажите путь к новому файлу: ");
 path = Console.ReadLine();
+var writer = new StreamWriter(path!);
